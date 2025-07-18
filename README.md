@@ -2,7 +2,7 @@
 
 ### 🛠️ Tech Stack
 - 💻 Languages: Python, Bash
-- 🧰 Tools: Git, Linux, Docker, Postman
+- 🧰 Tools: Git, Linux, Docker
 - 🗄️ Databases: PostgreSQL, SQLite
 
 ---
