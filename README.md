@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Vilosidl/Vilosidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
+- 💻 Languages: Python, Bash
+- 🧰 Tools: Git, Linux, Docker, Postman
+- 🗄️ Databases: PostgreSQL, SQLite
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm up to
+- 🌱 Learning advanced Python and backend patterns
+- 🧪 Experimenting with FastAPI and Flask
+- 🐳 Building containerized services with Docker
+- 📝 Writing clean and readable code
